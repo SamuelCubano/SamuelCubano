@@ -1,5 +1,5 @@
 <h1> 💫 SAMUEL CUBANO</h1> 
-👋 Hola! soy Samuel Cubano (SamCub)<br>🌎 Soy de Caracas-Venezuela<br>✏️ En estos momentos me encuentro estudiando en la Universidad la carrera de Informática<br>🌱 Estoy aprendiendo BD y SQL<br>🎶 Me encanta la música Loffi
+👋 Hola! soy Samuel Cubano (SamCub)<br>🌎 Soy de Caracas-Venezuela<br>✏️ En estos momentos me encuentro estudiando en la Universidad la carrera de Informática<br>🌱 Estoy aprendiendo React y NextJS<br>🎶 Me encanta la música Loffi
 
 
 # 💻 Mis Skills:

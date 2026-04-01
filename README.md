@@ -1,1 +1,2 @@
-🟢 **Hola, ¿cómo estás? Soy Samuel**
+> [!TIP]
+> Hola como estas soy samuel

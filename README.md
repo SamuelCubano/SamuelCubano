@@ -6,7 +6,7 @@
 ### 🛠️ Tecnologías y Herramientas
 
 <p align="left">
-  <img src="https://icons-samuel.netlify.app/html1.png" alt="HTML5" width="60" height="60" style="image-rendering: pixelated; image-rendering: crisp-edges; margin-right: 10px;" />
+  <img src="https://icons-samuel.netlify.app/html1.png" alt="HTML5" width="65" height="65" style="image-rendering: pixelated; image-rendering: crisp-edges; margin-right: 10px;" />
 </p>
 
 ### 📊 Mis Estadísticas de GitHub

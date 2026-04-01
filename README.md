@@ -3,8 +3,7 @@
 ### An experienced Html developer
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SamuelCubano" alt="SamuelCubano" /></a> </p>
-
-<span style="color: green"> Some green text </span>
+$${\color{red}Color \space your \space \color{green}.md \space file \space \color{blue}in \space Github}$$
 
 - 👨‍💻 All of my projects are available at **[https://myportfolio-samcub.vercel.app/](https://myportfolio-samcub.vercel.app/)**
 

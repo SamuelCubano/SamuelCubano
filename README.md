@@ -4,6 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SamuelCubano" alt="SamuelCubano" /></a> </p>
 
+<h2 style="color:red">Casa</h2>
+
 - 👨‍💻 All of my projects are available at **[https://myportfolio-samcub.vercel.app/](https://myportfolio-samcub.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>

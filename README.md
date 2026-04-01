@@ -8,4 +8,4 @@
 `CSS3`  •  `React`  •  `Node.js`  •  `PHP`  •  `PostgreSQL`  •  `JavaScript`  •  `HTML5`
 
 ### 📈 Mis Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelcubano&theme=dark&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelCubano&theme=dark&show_icons=true)

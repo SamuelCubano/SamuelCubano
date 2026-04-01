@@ -1,2 +1,1 @@
-> [!TIP]
-> Hola como estas soy samuel
+# [Hola como estas soy samuel](#)

@@ -1,6 +1,9 @@
-# Hey, I'm Samuel Cubano
-## Fullstack
+<div align="center">
 
+# Hey, I'm Samuel Cubano
+
+<h3>Fullstack</h3>
+</div>
 > asdasd
 
 ### 🛠️ Stack & Tools

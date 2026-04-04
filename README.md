@@ -2,7 +2,7 @@
 
 <h1>Hey, I'm SamuelCubano</h1>
 
-<h3>Fullstack Developer</h3>
+<h4>Fullstack Developer</h4>
 </div>
 
 > ddasdasdsd

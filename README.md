@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1 style="border-bottom: none;">Hey, I'm Samuel Cubano</h1>
-<h3>Fullstack</h3>
+<p align="center"><b><font size="6">Hey, I'm Samuel Cubano</font></b></p>
+<p align="center"><b>Fullstack</b></p>
 > :v
 
 </div>

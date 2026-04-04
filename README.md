@@ -36,7 +36,7 @@
 ### Contact me
 
 <p align="left">
-  [![Alt Text](https://icons-samuel.netlify.app/astro.png)](https://github.com/SamuelCubano)
+  <a href="https://github.com/SamuelCubano" target="_blank"><img src="https://icons-samuel.netlify.app/astro.png" width="35" height="35" style="image-rendering: pixelated; margin-right: 10px;"></a>
 </p>
 
 ### 📊 Mis Estadísticas

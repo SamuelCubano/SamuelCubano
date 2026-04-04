@@ -5,15 +5,17 @@
 <h3>Developer</h3>
 </div>
 
-<img src="https://icons-samuel.netlify.app/work.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Actualmente trabajo en **Sin chamba**
+-  Actualmente trabajo en **Sin chamba**
 
-<img src="https://icons-samuel.netlify.app/learning.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Estoy aprendiendo **Informatica**
+-  Estoy aprendiendo **Informatica**
 
-<img src="https://icons-samuel.netlify.app/collab.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Busco colaborar en **Software de calidad**
+-  Busco colaborar en **Software de calidad**
 
 ### 🛠️ Stack & Tools
 
 <p align="left">
-  <img src="https://icons-samuel.netlify.app/javascript.png" alt="JavaScript" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
+  <img src="https://icons-samuel.netlify.app/css3.png" alt="CSS3" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
+  <img src="https://icons-samuel.netlify.app/php.png" alt="PHP" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
+  <img src="https://icons-samuel.netlify.app/astro.png" alt="Astro" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
 </p>
 

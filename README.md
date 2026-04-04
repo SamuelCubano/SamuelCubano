@@ -1,5 +1,4 @@
-<h1>Hola 👋, soy Samuel Cubano</h1> 
- Fullstack Developer
+<h1>Hola 👋, soy Samuel Cubano br</h1> Fullstack Developer
 
 > WORKING
 

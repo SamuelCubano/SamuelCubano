@@ -1,17 +1,24 @@
-<h1>Hola 👋, soy Samuel Cubano br</h1> Fullstack Developer
+# Hola 👋, soy Samii
+## FullStack & DevOps Developer
 
-> WORKING
+> El progreso es la suma invisible de los pasos diarios.
+
+<img src="https://icons-samuel.netlify.app/css3.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Actualmente trabajo en **Sin chamba**
+
+<img src="https://icons-samuel.netlify.app/astro.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Estoy aprendiendo **Informatica**
+
+<img src="https://icons-samuel.netlify.app/postgresql.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Busco colaborar en **Software de calidad**
 
 ### 🛠️ Tecnologías y Herramientas
 
 <p align="left">
   <img src="https://icons-samuel.netlify.app/css3.png" alt="CSS3" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
   <img src="https://icons-samuel.netlify.app/javascript.png" alt="JavaScript" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
+  <img src="https://icons-samuel.netlify.app/mysql.png" alt="MySQL" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
+  <img src="https://icons-samuel.netlify.app/php.png" alt="PHP" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
+  <img src="https://icons-samuel.netlify.app/postgresql.png" alt="PostgreSQL" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
   <img src="https://icons-samuel.netlify.app/astro.png" alt="Astro" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
   <img src="https://icons-samuel.netlify.app/tailwindcss.png" alt="TailwindCSS" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
-  <img src="https://icons-samuel.netlify.app/postgresql.png" alt="PostgreSQL" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
-  <img src="https://icons-samuel.netlify.app/php.png" alt="PHP" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
-  <img src="https://icons-samuel.netlify.app/mysql.png" alt="MySQL" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
   <img src="https://icons-samuel.netlify.app/git.png" alt="Git" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
 </p>
 

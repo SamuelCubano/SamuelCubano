@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hey, I'm Samuel Cubano
-## Fullstack
+<h1 style="border-bottom: none;">Hey, I'm Samuel Cubano</h1>
+<h3>Fullstack</h3>
 > :v
 
 </div>

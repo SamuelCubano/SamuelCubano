@@ -1,6 +1,6 @@
 <div align="center">
 
-<p align="center"><b><font size="6">Hey, I'm Samuel Cubano</font></b></p>
+<p align="center"><b><font size="20">Hey, I'm Samuel Cubano</font></b></p>
 <p align="center"><b>Fullstack</b></p>
 > :v
 

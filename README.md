@@ -1,25 +1,25 @@
 # Hola 👋, soy Samuel Cubano
-## Fullstack
+## Fullstack Developer
 
-> SIUUU
-
-<img src="https://icons-samuel.netlify.app/javascript.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Actualmente trabajo en **Sin chamba**
-
-<img src="https://icons-samuel.netlify.app/astro.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Estoy aprendiendo **Informatica**
-
-<img src="https://icons-samuel.netlify.app/css3.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Busco colaborar en **Software de calidad**
+> WORKING
 
 ### 🛠️ Tecnologías y Herramientas
 
 <p align="left">
-  <img src="https://icons-samuel.netlify.app/css3.png" alt="CSS3" width="55" height="55" style="image-rendering: pixelated; margin-right: 5px;" />
-  <img src="https://icons-samuel.netlify.app/javascript.png" alt="JavaScript" width="55" height="55" style="image-rendering: pixelated; margin-right: 5px;" />
-  <img src="https://icons-samuel.netlify.app/astro.png" alt="Astro" width="55" height="55" style="image-rendering: pixelated; margin-right: 5px;" />
-  <img src="https://icons-samuel.netlify.app/tailwindcss.png" alt="TailwindCSS" width="55" height="55" style="image-rendering: pixelated; margin-right: 5px;" />
-  <img src="https://icons-samuel.netlify.app/postgresql.png" alt="PostgreSQL" width="55" height="55" style="image-rendering: pixelated; margin-right: 5px;" />
-  <img src="https://icons-samuel.netlify.app/mysql.png" alt="MySQL" width="55" height="55" style="image-rendering: pixelated; margin-right: 5px;" />
-  <img src="https://icons-samuel.netlify.app/php.png" alt="PHP" width="55" height="55" style="image-rendering: pixelated; margin-right: 5px;" />
-  <img src="https://icons-samuel.netlify.app/git.png" alt="Git" width="55" height="55" style="image-rendering: pixelated; margin-right: 5px;" />
+  <img src="https://icons-samuel.netlify.app/css3.png" alt="CSS3" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
+  <img src="https://icons-samuel.netlify.app/javascript.png" alt="JavaScript" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
+  <img src="https://icons-samuel.netlify.app/astro.png" alt="Astro" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
+  <img src="https://icons-samuel.netlify.app/tailwindcss.png" alt="TailwindCSS" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
+  <img src="https://icons-samuel.netlify.app/postgresql.png" alt="PostgreSQL" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
+  <img src="https://icons-samuel.netlify.app/php.png" alt="PHP" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
+  <img src="https://icons-samuel.netlify.app/mysql.png" alt="MySQL" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
+  <img src="https://icons-samuel.netlify.app/git.png" alt="Git" width="50" height="50" style="image-rendering: pixelated; margin-right: 5px;" />
+</p>
+
+### 🤝 Conectemos
+
+<p align="left">
+  <a href="https://github.com/SamuelCubano" target="_blank"><img src="https://icons-samuel.netlify.app/astro.png" width="35" height="35" style="image-rendering: pixelated; margin-right: 10px;"></a>
 </p>
 
 ### 📊 Mis Estadísticas

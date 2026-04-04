@@ -15,7 +15,7 @@
 
 <div align="center">
 
-## My Stack & Tools
+### My Stack & Tools
 
 <img src="https://icons-samuel.netlify.app/bootstrap.png" alt="Bootstrap" width="50" height="50" style="image-rendering: pixelated; margin: 5px;" />
 <img src="https://icons-samuel.netlify.app/javascript.png" alt="JavaScript" width="50" height="50" style="image-rendering: pixelated; margin: 5px;" />

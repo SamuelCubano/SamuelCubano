@@ -1,7 +1,10 @@
-# Hey, I'm Samuel Cubano<p align="center">
-## Fullstack
+<div align="center">
 
+# Hey, I'm Samuel Cubano
+## Fullstack
 > :v
+
+</div>
 
 <img src="https://icons-samuel.netlify.app/html5.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Actualmente trabajo en **Sin chamba**
 

@@ -1,5 +1,5 @@
-# Hola 👋, soy Samuel Cubano
- Fullstack Developer
+ Hola 👋, soy Samuel Cubano
+## Fullstack Developer
 
 > WORKING
 

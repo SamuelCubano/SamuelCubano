@@ -2,10 +2,10 @@
 
 <h1>Hey, I'm Samuel Cubano</h1>
 
-<h4>FullStack & DevOps Developer</h4>
+<h4>Fullstack Developer</h4>
 </div>
 
-> El progreso es la suma invisible de los pasos diarios.
+> Gg Zzz
 
 <img src="https://icons-samuel.netlify.app/pokeball.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Actualmente trabajo en **Sin chamba**
 
@@ -27,8 +27,8 @@
 <img src="https://icons-samuel.netlify.app/postgresql.png" alt="PostgreSQL" width="50" height="50" style="image-rendering: pixelated; margin: 5px;" />
 <img src="https://icons-samuel.netlify.app/php.png" alt="PHP" width="50" height="50" style="image-rendering: pixelated; margin: 5px;" />
 <img src="https://icons-samuel.netlify.app/nodejs.png" alt="Node.js" width="50" height="50" style="image-rendering: pixelated; margin: 5px;" />
-<img src="https://icons-samuel.netlify.app/laravel.png" alt="Laravel" width="50" height="50" style="image-rendering: pixelated; margin: 5px;" />
 <img src="https://icons-samuel.netlify.app/astro.png" alt="Astro" width="50" height="50" style="image-rendering: pixelated; margin: 5px;" />
+<img src="https://icons-samuel.netlify.app/laravel.png" alt="Laravel" width="50" height="50" style="image-rendering: pixelated; margin: 5px;" />
 <img src="https://icons-samuel.netlify.app/git.png" alt="Git" width="50" height="50" style="image-rendering: pixelated; margin: 5px;" />
 <img src="https://icons-samuel.netlify.app/github.png" alt="GitHub" width="50" height="50" style="image-rendering: pixelated; margin: 5px;" />
 <img src="https://icons-samuel.netlify.app/gitlab.png" alt="GitLab" width="50" height="50" style="image-rendering: pixelated; margin: 5px;" />
@@ -41,10 +41,10 @@
 
 ### Contact me
 
-<a href="SamuelCubano"><img src="https://icons-samuel.netlify.app/github.png" width="35" height="35" style="image-rendering: pixelated; margin-left: 5px;       margin-right: 5px;"></a>
-<a href="https://www.linkedin.com/in/samuel-cubano-0b520b288/"><img src="https://icons-samuel.netlify.app/linkedin.png" width="35" height="35" style="image-rendering: pixelated; margin-left: 5px;       margin-right: 5px;"></a>
-<a href="https://www.instagram.com/SamuelCubano"><img src="https://icons-samuel.netlify.app/instagram.png" width="35" height="35" style="image-rendering: pixelated; margin-left: 5px;       margin-right: 5px;"></a>
-<a href="https://discord.com/users/543562025779855390"><img src="https://icons-samuel.netlify.app/discord.png" width="35" height="35" style="image-rendering: pixelated; margin-left: 5px;       margin-right: 5px;"></a>
+<a href="https://github.com/SamuelCubano"><img src="https://icons-samuel.netlify.app/github.png" width="35" height="35" style="image-rendering: pixelated; margin: 5px;"></a>
+<a href="https://www.linkedin.com/in/samuel-cubano-0b520b288/"><img src="https://icons-samuel.netlify.app/linkedin.png" width="35" height="35" style="image-rendering: pixelated; margin: 5px;"></a>
+<a href="https://www.instagram.com/SamuelCubano"><img src="https://icons-samuel.netlify.app/instagram.png" width="35" height="35" style="image-rendering: pixelated; margin: 5px;"></a>
+<a href="https://discord.com/users/543562025779855390"><img src="https://icons-samuel.netlify.app/discord.png" width="35" height="35" style="image-rendering: pixelated; margin: 5px;"></a>
 
 </div>
 
@@ -52,7 +52,7 @@
 
 ### My Statistics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelCubano&theme=dracula&hide_border=true&title_color=2f81f7&icon_color=2f81f7&bg_color=0d1117" alt="Streak" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelCubano&theme=dark&hide_border=true&title_color=2f81f7&icon_color=2f81f7&bg_color=0d1117" alt="Streak" height="170" />
 
 </div>
 

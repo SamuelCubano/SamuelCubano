@@ -1,9 +1,21 @@
 <div align="center">
 
-<h1>Hey, I'm Your Name</h1>
+<h1>Hey, I'm Samuel Cubano</h1>
 
-<h4>Developer</h4>
+<h4>FullStack & DevOps Developer</h4>
 </div>
+
+> "El progreso es la suma invisible de los pasos diarios."
+
+<img src="https://icons-samuel.netlify.app/pokeball.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Actualmente trabajo en **Sin chamba**
+
+<img src="https://icons-samuel.netlify.app/minecraft_diamond.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Estoy aprendiendo **Informatica**
+
+<img src="https://icons-samuel.netlify.app/zelda.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Busco colaborar en **Software de Calidad**
+
+<img src="https://icons-samuel.netlify.app/diamond_sword_minecraft.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Proyecto Destacado: **ProfileMD**
+
+<img src="https://icons-samuel.netlify.app/minecraft_diamond.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> En mi tiempo libre me dedico a **Jugar Valorant**
 
 <div align="center">
 
@@ -14,8 +26,8 @@
 <img src="https://icons-samuel.netlify.app/javascript.png" alt="JavaScript" width="50" height="50" style="image-rendering: pixelated; margin: 5px;" />
 <img src="https://icons-samuel.netlify.app/bootstrap.png" alt="Bootstrap" width="50" height="50" style="image-rendering: pixelated; margin: 5px;" />
 <img src="https://icons-samuel.netlify.app/react.png" alt="React" width="50" height="50" style="image-rendering: pixelated; margin: 5px;" />
-<img src="https://icons-samuel.netlify.app/tailwindcss.png" alt="TailwindCSS" width="50" height="50" style="image-rendering: pixelated; margin: 5px;" />
 <img src="https://icons-samuel.netlify.app/nextjs.png" alt="Next.js" width="50" height="50" style="image-rendering: pixelated; margin: 5px;" />
+<img src="https://icons-samuel.netlify.app/tailwindcss.png" alt="TailwindCSS" width="50" height="50" style="image-rendering: pixelated; margin: 5px;" />
 <img src="https://icons-samuel.netlify.app/python.png" alt="Python" width="50" height="50" style="image-rendering: pixelated; margin: 5px;" />
 <img src="https://icons-samuel.netlify.app/mysql.png" alt="MySQL" width="50" height="50" style="image-rendering: pixelated; margin: 5px;" />
 <img src="https://icons-samuel.netlify.app/postgresql.png" alt="PostgreSQL" width="50" height="50" style="image-rendering: pixelated; margin: 5px;" />
@@ -50,7 +62,7 @@
 
 ### My Statistics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelCubano&theme=gruvbox&hide_border=true&title_color=2f81f7&icon_color=2f81f7&bg_color=0d1117" alt="Streak" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelCubano&theme=dark&hide_border=true&title_color=2f81f7&icon_color=2f81f7&bg_color=0d1117" alt="Streak" height="170" />
 
 </div>
 

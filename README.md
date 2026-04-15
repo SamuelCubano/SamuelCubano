@@ -8,7 +8,7 @@
 
 > "El progreso es la suma invisible de los pasos diarios."
 
-<img src="https://icons-samuel.netlify.app/pokeball.png" width="20" style="image-rendering: pixelated;"> Actualmente trabajo en **Sin chamba**
+<img src="https://icons-samuel.netlify.app/pokeball.png" width="20"> Actualmente trabajo en **Sin chamba**
 
 <img src="https://icons-samuel.netlify.app/minecraft_diamond.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Estoy aprendiendo **Informatica**
 

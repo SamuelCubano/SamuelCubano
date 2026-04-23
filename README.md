@@ -33,20 +33,27 @@
   <img src="https://icons-samuel.netlify.app/dbeaver.png" alt="DBeaver" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/php.png" alt="PHP" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/postgresql.png" alt="PostgreSQL" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/go.png" alt="Go" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/linux.png" alt="Linux" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/mysql.png" alt="MySQL" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/python.png" alt="Python" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/railway.png" alt="Railway" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/java.png" alt="Java" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/csharp.png" alt="C#" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/cplusplus.png" alt="C++" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/kotlin.png" alt="Kotlin" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/rust.png" alt="Rust" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/typescript.png" alt="TypeScript" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/dart.png" alt="Dart" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/linux.png" alt="Linux" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/go.png" alt="Go" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/windows.png" alt="Windows" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/astro.png" alt="Astro" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/angular.png" alt="Angular" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/railway.png" alt="Railway" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/ruby.png" alt="Ruby" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/nestjs.png" alt="NestJS" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/mongodb.png" alt="MongoDB" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/angular.png" alt="Angular" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/astro.png" alt="Astro" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/laravel.png" alt="Laravel" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/figma.png" alt="Figma" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/vercel.png" alt="Vercel" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/toad.png" alt="Toad" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/git.png" alt="Git" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/vite.png" alt="Vite" width="50" style="image-rendering: pixelated; margin: 5px;" />
@@ -55,7 +62,6 @@
   <img src="https://icons-samuel.netlify.app/gitlab.png" alt="GitLab" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/visualstudiocode.png" alt="Visual Studio Code" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/gitbash.png" alt="Git Bash" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/vercel.png" alt="Vercel" width="50" style="image-rendering: pixelated; margin: 5px;" />
 </p>
 
 <p align="center">
@@ -73,6 +79,6 @@
   <br />
   <strong>My Statistics</strong>
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelCubano&theme=dark&hide_border=true&title_color=2f81f7&icon_color=2f81f7&bg_color=0d1117" alt="Streak" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelCubano&theme=dracula&hide_border=true&title_color=2f81f7&icon_color=2f81f7&bg_color=0d1117" alt="Streak" height="170" />
 </p>
 

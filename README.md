@@ -7,13 +7,13 @@
 
 > "El progreso es la suma invisible de los pasos diarios."
 
-<img src="https://icons-samuel.netlify.app/minecraft_diamond.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Actualmente trabajo en **En mis Proyectos personales**
+<img src="https://icons-samuel.netlify.app/minecraft_diamond.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Actualmente trabajo en **Proyectos Personales**
 
-<img src="https://icons-samuel.netlify.app/minecraft_diamond.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Estoy aprendiendo **Informatica**
+<img src="https://icons-samuel.netlify.app/minecraft_diamond.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Estoy aprendiendo **Angular & TypeScript**
 
-<img src="https://icons-samuel.netlify.app/minecraft_diamond.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Busco colaborar en **Software de Calidad**
+<img src="https://icons-samuel.netlify.app/minecraft_diamond.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Busco colaborar en **Software OpenSource**
 
-<img src="https://icons-samuel.netlify.app/minecraft_diamond.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Proyecto Destacado: **PixelMD**
+<img src="https://icons-samuel.netlify.app/minecraft_diamond.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Proyecto Destacado: **PixelMD-github-profile-readme-generator**
 
 <img src="https://icons-samuel.netlify.app/minecraft_diamond.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> En mi tiempo libre me dedico a **Escuchar música**
 

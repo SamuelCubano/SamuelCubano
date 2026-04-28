@@ -90,6 +90,11 @@
   <img src="https://icons-samuel.netlify.app/githubcopilot.png" alt="GitHub Copilot" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/gemini.png" alt="Gemini" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/claudecode.png" alt="Claude Code" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/cursorai.png" alt="Cursor AI" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/deepseek.png" alt="DeepSeek" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/perplexity.png" alt="Perplexity" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/metaai.png" alt="Meta AI" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/openia.png" alt="OpenIA" width="50" style="image-rendering: pixelated; margin: 5px;" />
 </p>
 
 <p align="center">

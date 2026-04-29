@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hey, I'm Samuel Cubano</h1>
+<h1>Hey, I'm Samuel Cuban</h1>
 
 <h4>FullStack & DevOps Developer</h4>
 </div>

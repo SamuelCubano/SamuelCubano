@@ -32,31 +32,31 @@
   <img src="https://icons-samuel.netlify.app/csharp.png" alt="C#" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/cplusplus.png" alt="C++" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/c.png" alt="C" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/ruby.png" alt="Ruby" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/kotlin.png" alt="Kotlin" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/rust.png" alt="Rust" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/dart.png" alt="Dart" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/swift.png" alt="Swift" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/sql.png" alt="SQL" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/go.png" alt="Go" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/bashscript.png" alt="Bash Script" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/sql.png" alt="SQL" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/swift.png" alt="Swift" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/html5.png" alt="HTML5" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/dart.png" alt="Dart" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/rust.png" alt="Rust" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/kotlin.png" alt="Kotlin" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/ruby.png" alt="Ruby" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/css3.png" alt="CSS3" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/bootstrap.png" alt="Bootstrap" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/html5.png" alt="HTML5" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/tailwindcss.png" alt="TailwindCSS" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/nodejs.png" alt="Node.js" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/expressjs.png" alt="Express.js" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/nodejs.png" alt="Node.js" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/react.png" alt="React" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/nextjs.png" alt="Next.js" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/flask.png" alt="Flask" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/nestjs.png" alt="NestJS" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/angular.png" alt="Angular" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/fastapi.png" alt="FastAPI" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/astro.png" alt="Astro" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/vuejs.png" alt="Vue.js" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/svelte.png" alt="Svelte" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/laravel.png" alt="Laravel" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/django.png" alt="Django" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/flask.png" alt="Flask" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/nestjs.png" alt="NestJS" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/fastapi.png" alt="FastAPI" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/postgresql.png" alt="PostgreSQL" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/mysql.png" alt="MySQL" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/mongodb.png" alt="MongoDB" width="50" style="image-rendering: pixelated; margin: 5px;" />
@@ -74,30 +74,38 @@
   <img src="https://icons-samuel.netlify.app/netlify.png" alt="Netlify" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/cloudflare.png" alt="Cloudflare" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/docker.png" alt="Docker" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/prometheus.png" alt="Prometheus" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/grafana.png" alt="Grafana" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/kubernetes.png" alt="Kubernetes" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/terraform.png" alt="Terraform" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/ansible.png" alt="Ansible" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/jenkins.png" alt="Jenkins" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/cloudformation.png" alt="CloudFormation" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/awssam.png" alt="AWS Sam" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/nginx.png" alt="Nginx" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/cloudformation.png" alt="CloudFormation" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/visualstudiocode.png" alt="VS Code" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/dbeaver.png" alt="DBeaver" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/toad.png" alt="Toad" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/git.png" alt="Git" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/gitlab.png" alt="GitLab" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/github.png" alt="GitHub" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/insomnia.png" alt="Insomnia" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/postman.png" alt="Postman" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/gitlab.png" alt="GitLab" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/gitbash.png" alt="Git Bash" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/libresprite.png" alt="LibreSprite" width="50" style="image-rendering: pixelated; margin: 5px;" />
-  <img src="https://icons-samuel.netlify.app/figma.png" alt="Figma" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/biome.png" alt="Biome" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/vite.png" alt="Vite" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/figma.png" alt="Figma" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/libresprite.png" alt="LibreSprite" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/openia.png" alt="OpenAI" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/claudecode.png" alt="Claude Code" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/githubcopilot.png" alt="GitHub Copilot" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/anthropic.png" alt="Anthropic" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/gemini.png" alt="Gemini" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/ollama.png" alt="Ollama" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/langchain.png" alt="LangChain" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/deepseek.png" alt="DeepSeek" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/perplexity.png" alt="Perplexity" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/huggingface.png" alt="Hugging Face" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/metaai.png" alt="Meta AI" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/copilot.png" alt="GitHub Copilot" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/cursorai.png" alt="Cursor AI" width="50" style="image-rendering: pixelated; margin: 5px;" />

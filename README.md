@@ -72,7 +72,9 @@
   <a href="https://github.com/SamuelCubano"><img src="https://icons-samuel.netlify.app/github.png" width="35" style="image-rendering: pixelated; margin: 5px;"></a>
   <a href="https://www.linkedin.com/in/samuelcubano/"><img src="https://icons-samuel.netlify.app/linkedin.png" width="35" style="image-rendering: pixelated; margin: 5px;"></a>
   <a href="https://www.instagram.com/SamuelCubano"><img src="https://icons-samuel.netlify.app/instagram.png" width="35" style="image-rendering: pixelated; margin: 5px;"></a>
-  <a href="https://discord.com/users/543562025779855390"><img src="https://icons-samuel.netlify.app/discord.png" width="35" style="image-rendering: pixelated; margin: 5px;"></a>
+  <a href="https://discord.com/users/543562025779855390"><img src="https://icons-samuel.netlify.app/discord.png" width="35" style="image-rendering: pixelated; margin: 5px;">
+  <a href="https://daily.dev/samcub_dev"><img src="https://icons-samuel.netlify.app/dailydev.png" width="35" style="image-rendering: pixelated; margin: 5px;"></a>
+</a>
 </p>
 
 <p align="center">

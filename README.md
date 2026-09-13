@@ -15,7 +15,7 @@
 
 <img src="https://icons-samuel.netlify.app/pokeball.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Featured project: **PixelMD-github-profile-readme-generator**
 
-<img src="https://icons-samuel.netlify.app/headphones.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> In my free time **Listen to loffi music**
+<img src="https://icons-samuel.netlify.app/valorant.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> In my free time **I like to play Valorant**
 
 <p align="center">
   <br />

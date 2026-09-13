@@ -62,6 +62,7 @@
   <img src="https://icons-samuel.netlify.app/claudecode.png" alt="Claude Code" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/githubcopilot.png" alt="GitHub Copilot" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/opencode.webp" alt="OpenCode" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/kilocode.png" alt="Linux" width="50" style="image-rendering: pixelated; margin: 5px;" />
 </p>
 
 <p align="center">

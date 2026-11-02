@@ -38,6 +38,7 @@
   <img src="https://icons-samuel.netlify.app/nextjs.png" alt="Next.js" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/angular.png" alt="Angular" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/astro.png" alt="Astro" width="50" style="image-rendering: pixelated; margin: 5px;" />
+  <img src="https://icons-samuel.netlify.app/vuejs.webp" alt="Astro" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/laravel.png" alt="Laravel" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/postgresql.png" alt="PostgreSQL" width="50" style="image-rendering: pixelated; margin: 5px;" />
   <img src="https://icons-samuel.netlify.app/supabase.webp" alt="Supabase" width="50" style="image-rendering: pixelated; margin: 5px;" />

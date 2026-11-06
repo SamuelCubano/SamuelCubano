@@ -9,7 +9,7 @@
 
 <img src="https://icons-samuel.netlify.app/coffee.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Currently working at **Personal Projects**
 
-<img src="https://icons-samuel.netlify.app/minecraft_diamond.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Learning **Angular & TypeScript**
+<img src="https://icons-samuel.netlify.app/minecraft_diamond.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Learning **Game Development**
 
 <img src="https://icons-samuel.netlify.app/fullheart.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Looking to collaborate on **Open Source Software**
 

@@ -5,7 +5,7 @@
 <h4>FullStack & DevOps Developer</h4>
 </div>
 
-> "Progress is the invisible sum of daily steps."
+> "Progress is the invisible sum of daily steps. "
 
 <img src="https://icons-samuel.netlify.app/coffee.png" width="20" style="vertical-align: middle; image-rendering: pixelated;"> Currently working at **Personal Projects**
 
